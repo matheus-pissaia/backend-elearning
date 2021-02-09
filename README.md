@@ -1,6 +1,6 @@
 # E.Learning 📚
 Back End de uma plataforma de Cursos Online feita em Node.JS <br>
-Mais atualizações em breve...
+Mais atualizações em breve...<br>
 
 # To-do
   <br>
