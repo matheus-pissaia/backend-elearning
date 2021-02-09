@@ -3,7 +3,6 @@
 Back End de uma plataforma de Cursos Online feita em Node.JS <br>
 Mais atualizações em breve...<br>
 
-<br>
 # To-do
   <br>
   1. configurar arquivo de upload (multer/amazon s3)<br>
